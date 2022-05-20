@@ -23,7 +23,7 @@ body {
     width: 27em;
 }
 
-.footer, .originalrecipe {
+a {
     color: brown;
     font-weight: bold;
 }
