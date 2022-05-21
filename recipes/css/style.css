@@ -10,16 +10,16 @@ body {
     width: 55em;
 }
 
-.ingredients-li, .steps-li {
+li {
     margin-left: auto;
     margin-right: auto;
 }
 
-.ingredients-li {
+ul li {
     width: 15em;
 }
 
-.steps-li {
+ol li {
     width: 27em;
 }
 
